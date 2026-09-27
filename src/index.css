@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+.font-serif-title {
+  font-family: 'Lora', serif;
+}
+
+.font-academic-crest {
+  font-family: 'Cinzel', serif;
+}
